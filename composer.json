@@ -28,5 +28,6 @@
     "psr-0": {
       "Baum": "src/"
     }
-  }
+  },
+  "minimum-stability": "stable"
 }
